@@ -2,7 +2,7 @@
 
 **Hitta vilket apotek som har ditt läkemedel – och få ett mejl när det finns igen.**
 
-👉 **[varfinnsdet.se](https://varfinnsdet.se/?utm_source=github)**
+👉 **[varfinnsdet.se](https://varfinnsdet.se/?utm_source=github.com&utm_medium=referral&utm_campaign=github-readme)**
 
 ---
 
@@ -14,7 +14,7 @@ Varfinnsdet är en gratis tjänst för dig som letar efter ett läkemedel som ä
 
 ## Så fungerar det
 
-1. **Sök på ditt läkemedel** på [varfinnsdet.se](https://varfinnsdet.se/?utm_source=github) och välj rätt styrka och förpackning.
+1. **Sök på ditt läkemedel** på [varfinnsdet.se](https://varfinnsdet.se/?utm_source=github.com&utm_medium=referral&utm_campaign=github-readme) och välj rätt styrka och förpackning.
 2. **Se lagerstatus.** Du ser om läkemedlet finns i lager, om det bara finns på ett fåtal apotek eller om det är slut. Fyll i ditt postnummer så visas apoteken nära dig först.
 3. **Bevaka om det** Fyll i din e-postadress och bekräfta via länken i mejlet du får.
 4. **Få ett mejl** när läkemedlet finns i lager igen.
